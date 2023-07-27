@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ai-codepen
-- 👀 I’m interested in copilot
+- 👋 Hi, I’m a student, learning how to use ai to help me coding 
+- 👀 I’m interested in copilot、rust、quic
 - 🌱 I’m currently learning ai generating code
 - 💞️ I’m looking to collaborate on quic transport
-- 📫 How to reach me ... codepen@foxmail.com
+- 📫 How to reach me ... coder_peng@qq.com
 
 <!---
 ai-codepen/ai-codepen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
